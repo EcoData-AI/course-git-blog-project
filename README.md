@@ -26,3 +26,6 @@ With the help of:
 * James
 * Julia
 Fork test
+Contribution note
+Contribution note
+Second note
